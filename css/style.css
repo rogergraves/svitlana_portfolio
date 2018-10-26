@@ -1306,6 +1306,11 @@ textarea.input-bg {
   border-color: #000000;
   color: #ffffff; }
 
+.btn.btn-green {
+  background: #3b9959;
+  border-color: #3b9959;
+  color: #ffffff; }
+
 .btn.btn-black:hover, .btn.btn-black:focus {
   background: transparent;
   color: #000000; }
