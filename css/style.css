@@ -1265,11 +1265,13 @@ textarea.input-bg {
   line-height: 22px; }
 
 .btn.btn-small {
-  font-size: 11px;
-  padding: 4px 24px; }
+  font-size: 12px;
+  font-weight: bolder;
+  padding: 5px 24px; }
 
 .btn.btn-medium {
   font-size: 12px;
+  font-weight: bolder;
   padding: 6px 25px 5px; }
 
 .btn.btn-large {
